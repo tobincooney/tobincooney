@@ -1,5 +1,5 @@
 syntax on
-set nu
+" set nu
 " highlight LineNr ctermfg=11
 " highlight LineNr ctermfg=180
 " highlight LineNr ctermfg=178
@@ -7,3 +7,4 @@ set nu
 " highlight LineNr ctermfg=14
 highlight LineNr ctermfg=179
 set compatible
+set ruler
